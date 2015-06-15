@@ -19,8 +19,8 @@ Automatically create comments on Trello, after a new git commit in bitbucket. Pl
 
 ## Installation Stage 2
 
-1) Modify the post-commit file's directory changes (cd) to point to where trello_commit.js is located
-2) Drop the post-commit file into any or all of your repo's .git/hooks folder
+1. Modify the post-commit file's directory changes (cd) to point to where trello_commit.js is located
+2. Drop the post-commit file into any or all of your repo's .git/hooks folder
 
 
 # How to Commit to Trello (2 Different Ways)
