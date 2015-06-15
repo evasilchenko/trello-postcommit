@@ -1,0 +1,16 @@
+#!/bin/sh
+#
+# An example hook script that is called after a successful
+# commit is made.
+#
+# To enable this hook, rename this file to "post-commit".
+
+# Get the full path of the repo
+GIT_PATH=$(git rev-parse --show-toplevel)
+
+# Change directory to where the trello_commit.js file is
+cd /
+cd /c/node-trello/
+
+# Run the trello_commit script with the git path
+node trello_commit.js $GIT_PATH

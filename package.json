@@ -1,0 +1,12 @@
+{
+  "name": "trello_commit",
+  "description": "Comments on a Trello story after commit",
+  "version": "0.0.0",
+  "author": {
+    "name": "Eugene Vasilchenko",
+    "email": "eugene.vasilchenko@ordergroove.com"
+  },
+  "dependencies": {
+    "node-trello": "*"
+  }
+}
