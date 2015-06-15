@@ -39,6 +39,6 @@ The second way to post a commit message to Trello is to get the shortLink of the
 
 ## Example 2
 ````bash
-git commit -m "My comment message | 5193b0b45b9811b7240036bf/68"
+git commit -m "My comment message | https://trello.com/c/4Xdt2A6d" (Make sure to include the entire link)
 ````
 
