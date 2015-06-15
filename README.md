@@ -1,5 +1,6 @@
 # trello-postcommit 
-Automatically create comments on Trello, after a new git commit
+Automatically create comments on Trello, after a new git commit in bitbucket. Please note that this was created originally a couple of years ago to tackle the lack of a true broker integration between bitbucket and Trello. The original ticket that this attempts to tackle can be found here:
+ - https://bitbucket.org/site/master/issue/6186/add-broker-for-trello-bb-7347
 
 ## Installation Stage 1
 
